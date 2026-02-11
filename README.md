@@ -1,6 +1,6 @@
 # OIBSIP_WebDevelopment_L1_Task3
 
-# OIBSIP_WebDev_Task3 –Temperature Converter Website
+## Temperature Converter Website
 
 ## Objective
 To build a simple and interactive **Temperature Converter web application** using HTML, CSS, and JavaScript.  
@@ -52,5 +52,5 @@ https://www.linkedin.com/posts/shivani-mandavkar-6b78743a8_webdevelopment-javasc
 https://www.linkedin.com/posts/shivani-mandavkar-6b78743a8_oibsip-oasisinfobyte-aicte-share-7426712255557271552-QeFy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGPLtesB_hTu1XrS9NiuYPIZ8GFThYiBuqk---
 
 ## Note:
-This project is part of the **OIB-SIP Level 1- Task 3 Web Development Internship.  
+This project is part of the OIB-SIP Level 1- Task 3 Web Development Internship.  
 All required files and documentation are included in this repository for evaluation.
