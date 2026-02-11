@@ -1,6 +1,4 @@
-# OIBSIP_WebDevelopment_L1_Task3
-
-## Temperature Converter Website
+## OIBSIP_WebDev_Task1 - Temperature Converter Website
 
 ## Objective
 To build a simple and interactive **Temperature Converter web application** using HTML, CSS, and JavaScript.  
